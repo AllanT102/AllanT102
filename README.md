@@ -59,7 +59,7 @@ Hi I'm Allan Tan! I am currently working on my bachelors degree in Computer Scie
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://user-images.githubusercontent.com/92118801/189776318-c0187355-de8d-4800-a719-bd891f5710a0.png)"
+        src="https://user-images.githubusercontent.com/92118801/189776318-c0187355-de8d-4800-a719-bd891f5710a0.png"
         width="48"
         height="48"
         alt="Git"
