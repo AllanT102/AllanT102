@@ -14,8 +14,8 @@ Hi I'm Allan Tan! I am currently working on my bachelors degree in Computer Scie
 ![117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc](https://user-images.githubusercontent.com/92118801/189775195-1decb77a-49e5-41b3-aaca-c7efb2741543.png)
 ![117533873-484d4480-afef-11eb-9fad-67c8605e3592](https://user-images.githubusercontent.com/92118801/189775208-c7ed373b-b056-465d-98e5-1bf600e22a9f.png)
 ![184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117](https://user-images.githubusercontent.com/92118801/189775213-47ce292a-34e6-405c-b48f-476783771726.png)
-![183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697](https://user-images.githubusercontent.com/92118801/189775231-9659b512-f6ef-4924-be2a-8ed5f948370b.png = 100x100)
-	https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png
+![183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697](https://user-images.githubusercontent.com/92118801/189775231-9659b512-f6ef-4924-be2a-8ed5f948370b.png | width=100)
+
 <!--
 **AllanT102/AllanT102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
