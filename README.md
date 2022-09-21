@@ -2,7 +2,7 @@
 
 Hi I'm Allan Tan! I am currently working on my bachelors degree in Computer Science (BSc) at the University of British Columbia while learning some web development technologies. In my free time, I like playing basketball and socializing with friends!
 
-🌱 Currently Learning: React.js, Next.js
+🌱 Currently Learning: React.js, Next.js, Material UI
 
 😄 Favourite TV Show ATM: The Boys 
 
