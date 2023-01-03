@@ -4,7 +4,7 @@ Hi I'm Allan Tan! I am currently working on my bachelors degree in Computer Scie
 
 🌱 Currently Learning: React.js, Next.js, Material UI
 
-😄 Favourite TV Show ATM: The Boys 
+😄 Favourite TV Show ATM: Business Proposal
 
 ### Technologies I've worked with: 
 
