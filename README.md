@@ -18,6 +18,7 @@ Please feel free to reach out and connect!
 ### Technologies I've worked with: 
 
 Languages: Java, Python, C#, TypeScript, JavaScript, C++, SQL, Powershell, HTML, CSS.
+
 Technologies: Azure and AWS Cloud, React, NodeJS, MongoDB, Docker, Electron, .NET, MySQL, JUnit, Apollo GraphQL.
 <!--
 **AllanT102/AllanT102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
