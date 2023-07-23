@@ -2,7 +2,7 @@
 
 [Looking for Fall 2023 && Summer 2024 Internships!]
 
-Hi! 👋 I'm Allan, a third-year Computer Science student at UBC. I am an aspiring software engineer and avid learner who enjoys solving challenging problems and seeks personal growth. I have interests in backend software engineering, AI/ML, databases, and distributed systems. 💻🧠
+Hi! 👋 I'm Allan, a third-year Computer Science student at UBC. I am an aspiring software engineer and avid learner who enjoys solving challenging problems and seeks personal growth. I have interests in fullstack software engineering, AI/ML, databases, data engineering, and distributed systems. 💻🧠
 
 I have experience with full stack web development through my internship at CoPilot AI (C#, Azure, TypeScript) and other projects that I have worked on (React, Node, SQL, NoSQL, MongoDB, Java). 
 
