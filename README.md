@@ -14,12 +14,13 @@ Please feel free to reach out and connect!
 
 
 😄 Favourite TV Show ATM: Business Proposal
+😄 Currently Working On: MP3 -> MP4 Converter using RabbitMQ, Kubernetes, Docker, Python, Flask, PostgresSQL, MongoDB
 
 ### Technologies I've worked with: 
 
 Languages: Java, Python, C#, TypeScript, JavaScript, C++, SQL, Powershell, HTML, CSS.
 
-Technologies: Azure and AWS Cloud, React, NodeJS, MongoDB, Docker, Electron, .NET, MySQL, JUnit, Apollo GraphQL.
+Technologies: Azure (Event Hubs, Stream Analytics, Service Bus, Functions, Container Apps, Virtual Machines) and AWS Cloud (S3, RDS, Lambda), React, NodeJS, MongoDB, Docker, Electron, .NET, MySQL, JUnit, Apollo GraphQL.
 <!--
 **AllanT102/AllanT102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
