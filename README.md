@@ -15,7 +15,7 @@ Please feel free to reach out and connect!
 
 😄 Favourite TV Show ATM: Business Proposal
 
-😄 Currently Working On: MP3 -> MP4 Converter using RabbitMQ, Kubernetes, Docker, Python, Flask, PostgresSQL, MongoDB
+😄 Currently Working On: MP4 -> MP3 Converter using RabbitMQ, Kubernetes, Docker, Python, Flask, PostgresSQL, MongoDB
 
 ### Technologies I've worked with: 
 
