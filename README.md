@@ -1,6 +1,6 @@
 👋
 
-[Looking for Fall 2023 && Summer 2024 Internships!]
+[Looking for Summer 2024 Internships!]
 
 Hi! 👋 I'm Allan, a third-year Computer Science student at UBC. I am an aspiring software engineer and avid learner who enjoys solving challenging problems and seeks personal growth. I have interests in fullstack software engineering, AI/ML, databases, data engineering, and distributed systems. 💻🧠
 
@@ -13,15 +13,13 @@ When I'm not coding, you'll find me on the basketball court, shooting hoops and 
 Please feel free to reach out and connect!
 
 
-😄 Favourite TV Show ATM: Business Proposal
-
-😄 Currently Working On: MP4 -> MP3 Converter using RabbitMQ, Kubernetes, Docker, Python, Flask, PostgresSQL, MongoDB
+😄 Favourite TV Show ATM: neetcode
 
 ### Technologies I've worked with: 
 
 Languages: Java, Python, C#, TypeScript, JavaScript, C++, SQL, Powershell, HTML, CSS.
 
-Technologies: React, NodeJS, MongoDB, Docker, Electron, .NET, MySQL, JUnit, Apollo GraphQL.
+Technologies: React, Spring, NodeJS, MongoDB, Docker, Electron, .NET, MySQL, JUnit, Apollo GraphQL.
 
 Cloud: Azure (Event Hubs, Stream Analytics, Service Bus, Functions, Container Apps, Virtual Machines) and AWS (S3, RDS, Lambda)
 <!--
