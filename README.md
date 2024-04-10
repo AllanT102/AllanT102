@@ -1,27 +1,17 @@
-👋
+Hi, I'm a Computer Science student @ UBC graduating in 2026. I have 8 months of internship experience, and I'll be heading into my 3rd work term this summer @ Citi :)
 
-[Looking for Summer 2024 Internships!]
+Interests: Backend, Full-stack, Infrastructure, Distributed Systems
 
-Hi! 👋 I'm Allan, a third-year Computer Science student at UBC. I am an aspiring software engineer and avid learner who enjoys solving challenging problems and seeks personal growth. I have interests in fullstack software engineering, AI/ML, databases, data engineering, and distributed systems. 💻🧠
+Me :
 
-I have experience with full stack web development through my internship at CoPilot AI (C#, Azure, TypeScript) and other projects that I have worked on (React, Node, SQL, NoSQL, MongoDB, Java). 
+- I find opportunities to take initiative, solve challenging problems, and learn proactively
 
-Just recently, I had the amazing opportunity to direct Western Canada's only product-focused hackathon, where we created some incredible software products. This experience taught me the importance of collaboration and leadership! 🚀
+- I learn quickly because I'm passionate about software engineering :D
 
-When I'm not coding, you'll find me on the basketball court, shooting hoops and enjoying the game. 🏀
+- Being a hackathon director has taught me key communication skills and how to collaborate cross-functionally to build a product that brings value to the community
 
-Please feel free to reach out and connect!
+- I interned on the platform team at CoPilot AI where I was able to create meaningful impact on stakeholders while using C#, Azure, TypeScript
 
+- I am a 3x hackathon winner (nwHacks, HackCamp, Hack the Change) where I built full stack applications using Node.js, Express.js, JavaScript, Python, Flask, React.js
 
-😄 Favourite TV Show ATM: neetcode
-
-### Technologies I've worked with: 
-
-Languages: Java, Python, C#, TypeScript, JavaScript, C++, SQL, Powershell, HTML, CSS.
-
-Technologies: React, Spring, NodeJS, MongoDB, Docker, Electron, .NET, MySQL, JUnit, Apollo GraphQL.
-
-Cloud: Azure (Event Hubs, Stream Analytics, Service Bus, Functions, Container Apps, Virtual Machines) and AWS (S3, RDS, Lambda)
-<!--
-**AllanT102/AllanT102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'd love to connect with you via LinkedIn or email allantan.zf@gmail.com.
