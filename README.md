@@ -1,17 +1,12 @@
-Hi, I'm a Computer Science student @ UBC graduating in 2026. I have 8 months of internship experience, and I'll be heading into my 3rd work term this summer @ Citi :)
+Hi! I'm Allan 😁
 
-Interests: Backend, Full-stack, Infrastructure, Distributed Systems
+I'm currently in my final year of computer science studies at the University of British Columbia. 
 
-Me :
+Some things I've done in the past...
+- Owned multiple full-stack features on the AIP Agent Studio team at Palantir Technologies
+- Led a team of developers at UBC BizTech to launch features for 1000+ students
+- Spearheaded my own product hackathon!
 
-- I find opportunities to take initiative, solve challenging problems, and learn proactively
+I'll be graduating May 2026, and I'm looking for new grad opportunities. I'm interested in backend, infrastructure, product, and full-stack roles. 
 
-- I learn quickly because I'm passionate about software engineering :D
-
-- Being a hackathon director has taught me key communication skills and how to collaborate cross-functionally to build a product that brings value to the community
-
-- I interned on the platform team at CoPilot AI where I was able to create meaningful impact on stakeholders while using C#, Azure, TypeScript
-
-- I am a 3x hackathon winner (nwHacks, HackCamp, Hack the Change) where I built full stack applications using Node.js, Express.js, JavaScript, Python, Flask, React.js
-
-I'd love to connect with you via LinkedIn or email allantan.zf@gmail.com.
+Email: allantan.zf@gmail.com
